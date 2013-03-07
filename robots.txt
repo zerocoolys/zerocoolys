@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://zerocoolys.github.com/zerocoolys/sitemap.xml 
